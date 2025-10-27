@@ -760,7 +760,7 @@ export default function App() {
             <div className="md:col-span-2 space-y-6">
               {/* Direct Contact */}
               <div className="bg-gradient-to-br from-[#1B5E20] to-[#2E7D32] rounded-3xl p-8 text-white shadow-2xl">
-                <h4 className="text-2xl font-bold mb-6">Contact Mike Directly</h4>
+                <h4 className="text-2xl font-bold mb-6">Contact Manager Directly</h4>
                 <div className="space-y-4">
                   <a
                     href="tel:8010000000"
